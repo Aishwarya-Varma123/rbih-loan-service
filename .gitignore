@@ -4,3 +4,9 @@
 *.iml
 .DS_Store
 *.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
